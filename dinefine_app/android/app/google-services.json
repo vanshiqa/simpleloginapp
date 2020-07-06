@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "609609473630",
+    "firebase_url": "https://dinefine-7cf4a.firebaseio.com",
+    "project_id": "dinefine-7cf4a",
+    "storage_bucket": "dinefine-7cf4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609609473630:android:68afb5f10fa117907e9ecf",
+        "android_client_info": {
+          "package_name": "com.example.dinefine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609609473630-71i7ie0if70oq2nbh3pm0ar9s8qvibaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZZrC4sfS-71MTlw7Ei5rICB-NTZwAe28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609609473630-71i7ie0if70oq2nbh3pm0ar9s8qvibaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
