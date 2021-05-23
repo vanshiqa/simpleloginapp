@@ -70,31 +70,7 @@ class _SignUpState extends State<SignUpScreen> {
         "Add profile picture",
         style: TextStyle(fontSize: 15.0),
       ),
-      actions: <Widget>[
-//        CupertinoActionSheetAction(
-//          child: Text("Choose from gallery"),
-//          isDefaultAction: false,
-//          onPressed: () async {
-//            Navigator.pop(context);
-//            var image =
-//                await ImagePicker.pickImage(source: ImageSource.gallery);
-//            setState(() {
-//              _image = image;
-//            });
-//          },
-//        ),
-//        CupertinoActionSheetAction(
-//          child: Text("Take a picture"),
-//          isDestructiveAction: false,
-//          onPressed: () async {
-//            Navigator.pop(context);
-//            var image = await ImagePicker.pickImage(source: ImageSource.camera);
-//            setState(() {
-//              _image = image;
-//            });
-//          },
-//        )
-      ],
+      actions: <Widget>[],
       cancelButton: CupertinoActionSheetAction(
         child: Text("Cancel"),
         onPressed: () {
